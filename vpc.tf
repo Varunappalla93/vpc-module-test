@@ -1,4 +1,4 @@
-# Day 36
+# Day 36 and 37
 
 module "vpc" {
   source      = "git::https://github.com/Varunappalla93/Terrform-AWS-VPC.git?ref=main" # wil take from git repo
