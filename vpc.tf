@@ -12,5 +12,4 @@ module "vpc" {
 # terraform plan
 # terraform apply -auto-approve
 
-# to check for new module updates
-# terraform get -update and again run terraform plan and terraform apply -auto-approve
+# to check for new module updates - > terraform get -update and again run terraform plan and terraform apply -auto-approve
